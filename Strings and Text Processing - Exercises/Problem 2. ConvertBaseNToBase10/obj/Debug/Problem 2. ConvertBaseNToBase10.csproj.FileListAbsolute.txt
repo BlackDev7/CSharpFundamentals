@@ -1,0 +1,6 @@
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Strings and Text Processing - Exercises\Problem 2. ConvertBaseNToBase10\bin\Debug\Problem_2.ConvertBaseNToBase10.exe.config
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Strings and Text Processing - Exercises\Problem 2. ConvertBaseNToBase10\bin\Debug\Problem_2.ConvertBaseNToBase10.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Strings and Text Processing - Exercises\Problem 2. ConvertBaseNToBase10\bin\Debug\Problem_2.ConvertBaseNToBase10.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Strings and Text Processing - Exercises\Problem 2. ConvertBaseNToBase10\obj\Debug\Problem_2.ConvertBaseNToBase10.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Strings and Text Processing - Exercises\Problem 2. ConvertBaseNToBase10\obj\Debug\Problem_2.ConvertBaseNToBase10.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Strings and Text Processing - Exercises\Problem 2. ConvertBaseNToBase10\obj\Debug\Problem 2. ConvertBaseNToBase10.csprojResolveAssemblyReference.cache

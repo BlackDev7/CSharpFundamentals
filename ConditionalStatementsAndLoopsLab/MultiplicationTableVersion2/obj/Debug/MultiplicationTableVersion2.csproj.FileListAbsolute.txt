@@ -1,0 +1,5 @@
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\ConditionalStatementsAndLoopsLab\MultiplicationTableVersion2\bin\Debug\MultiplicationTableVersion2.exe.config
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\ConditionalStatementsAndLoopsLab\MultiplicationTableVersion2\bin\Debug\MultiplicationTableVersion2.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\ConditionalStatementsAndLoopsLab\MultiplicationTableVersion2\bin\Debug\MultiplicationTableVersion2.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\ConditionalStatementsAndLoopsLab\MultiplicationTableVersion2\obj\Debug\MultiplicationTableVersion2.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\ConditionalStatementsAndLoopsLab\MultiplicationTableVersion2\obj\Debug\MultiplicationTableVersion2.pdb

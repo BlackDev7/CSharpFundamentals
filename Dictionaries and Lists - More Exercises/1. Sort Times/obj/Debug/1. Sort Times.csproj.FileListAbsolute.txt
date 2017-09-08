@@ -1,0 +1,6 @@
+c:\users\kiko0735\documents\visual studio 2017\Projects\Dictionaries and Lists - More Exercises\1. Sort Times\obj\Debug\1. Sort Times.csprojResolveAssemblyReference.cache
+c:\users\kiko0735\documents\visual studio 2017\Projects\Dictionaries and Lists - More Exercises\1. Sort Times\bin\Debug\_1.Sort_Times.exe.config
+c:\users\kiko0735\documents\visual studio 2017\Projects\Dictionaries and Lists - More Exercises\1. Sort Times\bin\Debug\_1.Sort_Times.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\Dictionaries and Lists - More Exercises\1. Sort Times\bin\Debug\_1.Sort_Times.pdb
+c:\users\kiko0735\documents\visual studio 2017\Projects\Dictionaries and Lists - More Exercises\1. Sort Times\obj\Debug\_1.Sort_Times.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\Dictionaries and Lists - More Exercises\1. Sort Times\obj\Debug\_1.Sort_Times.pdb

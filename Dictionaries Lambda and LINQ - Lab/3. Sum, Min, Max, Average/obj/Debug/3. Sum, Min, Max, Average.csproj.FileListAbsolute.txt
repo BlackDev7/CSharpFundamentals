@@ -1,0 +1,5 @@
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Dictionaries Lambda and LINQ - Lab\3. Sum, Min, Max, Average\bin\Debug\_3.Sum__Min__Max__Average.exe.config
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Dictionaries Lambda and LINQ - Lab\3. Sum, Min, Max, Average\bin\Debug\_3.Sum__Min__Max__Average.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Dictionaries Lambda and LINQ - Lab\3. Sum, Min, Max, Average\bin\Debug\_3.Sum__Min__Max__Average.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Dictionaries Lambda and LINQ - Lab\3. Sum, Min, Max, Average\obj\Debug\_3.Sum__Min__Max__Average.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Dictionaries Lambda and LINQ - Lab\3. Sum, Min, Max, Average\obj\Debug\_3.Sum__Min__Max__Average.pdb

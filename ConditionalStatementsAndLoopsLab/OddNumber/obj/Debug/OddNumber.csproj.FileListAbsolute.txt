@@ -1,0 +1,5 @@
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\ConditionalStatementsAndLoopsLab\OddNumber\bin\Debug\OddNumber.exe.config
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\ConditionalStatementsAndLoopsLab\OddNumber\bin\Debug\OddNumber.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\ConditionalStatementsAndLoopsLab\OddNumber\bin\Debug\OddNumber.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\ConditionalStatementsAndLoopsLab\OddNumber\obj\Debug\OddNumber.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\ConditionalStatementsAndLoopsLab\OddNumber\obj\Debug\OddNumber.pdb

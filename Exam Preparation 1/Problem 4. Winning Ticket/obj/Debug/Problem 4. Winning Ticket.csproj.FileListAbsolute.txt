@@ -1,0 +1,5 @@
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam Preparation 1\Problem 4. Winning Ticket\bin\Debug\Problem_4.Winning_Ticket.exe.config
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam Preparation 1\Problem 4. Winning Ticket\bin\Debug\Problem_4.Winning_Ticket.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam Preparation 1\Problem 4. Winning Ticket\bin\Debug\Problem_4.Winning_Ticket.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam Preparation 1\Problem 4. Winning Ticket\obj\Debug\Problem_4.Winning_Ticket.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam Preparation 1\Problem 4. Winning Ticket\obj\Debug\Problem_4.Winning_Ticket.pdb

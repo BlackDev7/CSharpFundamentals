@@ -1,0 +1,6 @@
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Lists - Exercises\3. Longest Increasing Subsequence (LIS)\bin\Debug\_3.Longest_Increasing_Subsequence__LIS_.exe.config
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Lists - Exercises\3. Longest Increasing Subsequence (LIS)\bin\Debug\_3.Longest_Increasing_Subsequence__LIS_.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Lists - Exercises\3. Longest Increasing Subsequence (LIS)\bin\Debug\_3.Longest_Increasing_Subsequence__LIS_.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Lists - Exercises\3. Longest Increasing Subsequence (LIS)\obj\Debug\3. Longest Increasing Subsequence (LIS).csprojResolveAssemblyReference.cache
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Lists - Exercises\3. Longest Increasing Subsequence (LIS)\obj\Debug\_3.Longest_Increasing_Subsequence__LIS_.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Lists - Exercises\3. Longest Increasing Subsequence (LIS)\obj\Debug\_3.Longest_Increasing_Subsequence__LIS_.pdb

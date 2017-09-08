@@ -1,0 +1,6 @@
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Lists - Exercises\2. Change List\bin\Debug\_2.Change_List.exe.config
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Lists - Exercises\2. Change List\bin\Debug\_2.Change_List.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Lists - Exercises\2. Change List\bin\Debug\_2.Change_List.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Lists - Exercises\2. Change List\obj\Debug\2. Change List.csprojResolveAssemblyReference.cache
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Lists - Exercises\2. Change List\obj\Debug\_2.Change_List.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Lists - Exercises\2. Change List\obj\Debug\_2.Change_List.pdb

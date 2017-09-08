@@ -1,0 +1,5 @@
+c:\users\kiko0735\documents\visual studio 2017\Projects\1. Remove Negatives and Reverse\6. Square Numbers\bin\Debug\_6.Square_Numbers.exe.config
+c:\users\kiko0735\documents\visual studio 2017\Projects\1. Remove Negatives and Reverse\6. Square Numbers\bin\Debug\_6.Square_Numbers.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\1. Remove Negatives and Reverse\6. Square Numbers\bin\Debug\_6.Square_Numbers.pdb
+c:\users\kiko0735\documents\visual studio 2017\Projects\1. Remove Negatives and Reverse\6. Square Numbers\obj\Debug\_6.Square_Numbers.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\1. Remove Negatives and Reverse\6. Square Numbers\obj\Debug\_6.Square_Numbers.pdb

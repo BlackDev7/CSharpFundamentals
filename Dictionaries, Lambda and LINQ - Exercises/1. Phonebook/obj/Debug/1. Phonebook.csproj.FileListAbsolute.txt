@@ -1,0 +1,6 @@
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Dictionaries, Lambda and LINQ - Exercises\1. Phonebook\bin\Debug\_1.Phonebook.exe.config
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Dictionaries, Lambda and LINQ - Exercises\1. Phonebook\bin\Debug\_1.Phonebook.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Dictionaries, Lambda and LINQ - Exercises\1. Phonebook\bin\Debug\_1.Phonebook.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Dictionaries, Lambda and LINQ - Exercises\1. Phonebook\obj\Debug\1. Phonebook.csprojResolveAssemblyReference.cache
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Dictionaries, Lambda and LINQ - Exercises\1. Phonebook\obj\Debug\_1.Phonebook.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Dictionaries, Lambda and LINQ - Exercises\1. Phonebook\obj\Debug\_1.Phonebook.pdb

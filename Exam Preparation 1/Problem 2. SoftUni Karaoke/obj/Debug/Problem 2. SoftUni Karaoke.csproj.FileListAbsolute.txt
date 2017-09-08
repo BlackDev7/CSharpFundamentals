@@ -1,0 +1,5 @@
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam Preparation 1\Problem 2. SoftUni Karaoke\bin\Debug\Problem_2.SoftUni_Karaoke.exe.config
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam Preparation 1\Problem 2. SoftUni Karaoke\bin\Debug\Problem_2.SoftUni_Karaoke.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam Preparation 1\Problem 2. SoftUni Karaoke\bin\Debug\Problem_2.SoftUni_Karaoke.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam Preparation 1\Problem 2. SoftUni Karaoke\obj\Debug\Problem_2.SoftUni_Karaoke.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam Preparation 1\Problem 2. SoftUni Karaoke\obj\Debug\Problem_2.SoftUni_Karaoke.pdb

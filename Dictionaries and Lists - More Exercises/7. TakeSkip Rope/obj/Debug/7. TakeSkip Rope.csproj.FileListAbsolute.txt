@@ -1,0 +1,6 @@
+C:\Users\kiko0735\documents\visual studio 2017\Projects\Dictionaries and Lists - More Exercises\7. TakeSkip Rope\bin\Debug\_7.TakeSkip_Rope.exe.config
+C:\Users\kiko0735\documents\visual studio 2017\Projects\Dictionaries and Lists - More Exercises\7. TakeSkip Rope\bin\Debug\_7.TakeSkip_Rope.exe
+C:\Users\kiko0735\documents\visual studio 2017\Projects\Dictionaries and Lists - More Exercises\7. TakeSkip Rope\bin\Debug\_7.TakeSkip_Rope.pdb
+C:\Users\kiko0735\documents\visual studio 2017\Projects\Dictionaries and Lists - More Exercises\7. TakeSkip Rope\obj\Debug\7. TakeSkip Rope.csprojResolveAssemblyReference.cache
+C:\Users\kiko0735\documents\visual studio 2017\Projects\Dictionaries and Lists - More Exercises\7. TakeSkip Rope\obj\Debug\_7.TakeSkip_Rope.exe
+C:\Users\kiko0735\documents\visual studio 2017\Projects\Dictionaries and Lists - More Exercises\7. TakeSkip Rope\obj\Debug\_7.TakeSkip_Rope.pdb

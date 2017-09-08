@@ -1,0 +1,6 @@
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam Preparation 1\Problem 1. Sino The Walker\bin\Debug\Problem_1.Sino_The_Walker.exe.config
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam Preparation 1\Problem 1. Sino The Walker\bin\Debug\Problem_1.Sino_The_Walker.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam Preparation 1\Problem 1. Sino The Walker\bin\Debug\Problem_1.Sino_The_Walker.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam Preparation 1\Problem 1. Sino The Walker\obj\Debug\Problem 1. Sino The Walker.csprojResolveAssemblyReference.cache
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam Preparation 1\Problem 1. Sino The Walker\obj\Debug\Problem_1.Sino_The_Walker.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam Preparation 1\Problem 1. Sino The Walker\obj\Debug\Problem_1.Sino_The_Walker.pdb

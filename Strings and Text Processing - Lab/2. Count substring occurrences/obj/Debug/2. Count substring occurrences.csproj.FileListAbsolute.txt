@@ -1,0 +1,6 @@
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Strings and Text Processing - Lab\2. Count substring occurrences\bin\Debug\_2.Count_substring_occurrences.exe.config
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Strings and Text Processing - Lab\2. Count substring occurrences\bin\Debug\_2.Count_substring_occurrences.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Strings and Text Processing - Lab\2. Count substring occurrences\bin\Debug\_2.Count_substring_occurrences.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Strings and Text Processing - Lab\2. Count substring occurrences\obj\Debug\2. Count substring occurrences.csprojResolveAssemblyReference.cache
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Strings and Text Processing - Lab\2. Count substring occurrences\obj\Debug\_2.Count_substring_occurrences.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Strings and Text Processing - Lab\2. Count substring occurrences\obj\Debug\_2.Count_substring_occurrences.pdb

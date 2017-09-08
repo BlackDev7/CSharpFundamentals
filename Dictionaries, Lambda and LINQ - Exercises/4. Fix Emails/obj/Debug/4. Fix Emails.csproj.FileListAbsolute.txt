@@ -1,0 +1,5 @@
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Dictionaries, Lambda and LINQ - Exercises\4. Fix Emails\bin\Debug\_4.Fix_Emails.exe.config
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Dictionaries, Lambda and LINQ - Exercises\4. Fix Emails\bin\Debug\_4.Fix_Emails.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Dictionaries, Lambda and LINQ - Exercises\4. Fix Emails\bin\Debug\_4.Fix_Emails.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Dictionaries, Lambda and LINQ - Exercises\4. Fix Emails\obj\Debug\_4.Fix_Emails.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Dictionaries, Lambda and LINQ - Exercises\4. Fix Emails\obj\Debug\_4.Fix_Emails.pdb

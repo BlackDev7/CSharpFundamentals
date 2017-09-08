@@ -1,0 +1,5 @@
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Objects and Classes - Exercises\1. Count Working Days\bin\Debug\_1.Count_Working_Days.exe.config
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Objects and Classes - Exercises\1. Count Working Days\bin\Debug\_1.Count_Working_Days.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Objects and Classes - Exercises\1. Count Working Days\bin\Debug\_1.Count_Working_Days.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Objects and Classes - Exercises\1. Count Working Days\obj\Debug\_1.Count_Working_Days.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Objects and Classes - Exercises\1. Count Working Days\obj\Debug\_1.Count_Working_Days.pdb

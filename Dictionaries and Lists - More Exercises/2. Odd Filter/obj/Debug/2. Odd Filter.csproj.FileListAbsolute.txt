@@ -1,0 +1,5 @@
+c:\users\kiko0735\documents\visual studio 2017\Projects\Dictionaries and Lists - More Exercises\2. Odd Filter\bin\Debug\_2.Odd_Filter.exe.config
+c:\users\kiko0735\documents\visual studio 2017\Projects\Dictionaries and Lists - More Exercises\2. Odd Filter\bin\Debug\_2.Odd_Filter.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\Dictionaries and Lists - More Exercises\2. Odd Filter\bin\Debug\_2.Odd_Filter.pdb
+c:\users\kiko0735\documents\visual studio 2017\Projects\Dictionaries and Lists - More Exercises\2. Odd Filter\obj\Debug\_2.Odd_Filter.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\Dictionaries and Lists - More Exercises\2. Odd Filter\obj\Debug\_2.Odd_Filter.pdb

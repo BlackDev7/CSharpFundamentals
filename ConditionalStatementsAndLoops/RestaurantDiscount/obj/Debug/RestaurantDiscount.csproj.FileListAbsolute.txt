@@ -1,0 +1,5 @@
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\ConditionalStatementsAndLoops\RestaurantDiscount\bin\Debug\RestaurantDiscount.exe.config
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\ConditionalStatementsAndLoops\RestaurantDiscount\bin\Debug\RestaurantDiscount.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\ConditionalStatementsAndLoops\RestaurantDiscount\bin\Debug\RestaurantDiscount.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\ConditionalStatementsAndLoops\RestaurantDiscount\obj\Debug\RestaurantDiscount.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\ConditionalStatementsAndLoops\RestaurantDiscount\obj\Debug\RestaurantDiscount.pdb

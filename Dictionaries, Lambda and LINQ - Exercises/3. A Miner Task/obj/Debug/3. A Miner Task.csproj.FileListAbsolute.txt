@@ -1,0 +1,6 @@
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Dictionaries, Lambda and LINQ - Exercises\3. A Miner Task\bin\Debug\_3.A_Miner_Task.exe.config
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Dictionaries, Lambda and LINQ - Exercises\3. A Miner Task\bin\Debug\_3.A_Miner_Task.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Dictionaries, Lambda and LINQ - Exercises\3. A Miner Task\bin\Debug\_3.A_Miner_Task.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Dictionaries, Lambda and LINQ - Exercises\3. A Miner Task\obj\Debug\3. A Miner Task.csprojResolveAssemblyReference.cache
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Dictionaries, Lambda and LINQ - Exercises\3. A Miner Task\obj\Debug\_3.A_Miner_Task.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Dictionaries, Lambda and LINQ - Exercises\3. A Miner Task\obj\Debug\_3.A_Miner_Task.pdb

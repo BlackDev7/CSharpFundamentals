@@ -1,0 +1,6 @@
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Dictionaries Lambda and LINQ - Lab\6. Fold and Sum\bin\Debug\_6.Fold_and_Sum.exe.config
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Dictionaries Lambda and LINQ - Lab\6. Fold and Sum\bin\Debug\_6.Fold_and_Sum.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Dictionaries Lambda and LINQ - Lab\6. Fold and Sum\bin\Debug\_6.Fold_and_Sum.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Dictionaries Lambda and LINQ - Lab\6. Fold and Sum\obj\Debug\6. Fold and Sum.csprojResolveAssemblyReference.cache
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Dictionaries Lambda and LINQ - Lab\6. Fold and Sum\obj\Debug\_6.Fold_and_Sum.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Dictionaries Lambda and LINQ - Lab\6. Fold and Sum\obj\Debug\_6.Fold_and_Sum.pdb

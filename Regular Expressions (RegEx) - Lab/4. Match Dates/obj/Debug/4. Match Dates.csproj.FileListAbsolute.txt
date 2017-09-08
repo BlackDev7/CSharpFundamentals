@@ -1,0 +1,6 @@
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Regular Expressions (RegEx) - Lab\4. Match Dates\bin\Debug\_4.Match_Dates.exe.config
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Regular Expressions (RegEx) - Lab\4. Match Dates\bin\Debug\_4.Match_Dates.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Regular Expressions (RegEx) - Lab\4. Match Dates\bin\Debug\_4.Match_Dates.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Regular Expressions (RegEx) - Lab\4. Match Dates\obj\Debug\4. Match Dates.csprojResolveAssemblyReference.cache
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Regular Expressions (RegEx) - Lab\4. Match Dates\obj\Debug\_4.Match_Dates.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Regular Expressions (RegEx) - Lab\4. Match Dates\obj\Debug\_4.Match_Dates.pdb

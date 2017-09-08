@@ -1,0 +1,6 @@
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\IntroAndBasicSyntax\DebitCardNumber\bin\Debug\DebitCardNumber.exe.config
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\IntroAndBasicSyntax\DebitCardNumber\bin\Debug\DebitCardNumber.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\IntroAndBasicSyntax\DebitCardNumber\bin\Debug\DebitCardNumber.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\IntroAndBasicSyntax\DebitCardNumber\obj\Debug\DebitCardNumber.csprojResolveAssemblyReference.cache
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\IntroAndBasicSyntax\DebitCardNumber\obj\Debug\DebitCardNumber.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\IntroAndBasicSyntax\DebitCardNumber\obj\Debug\DebitCardNumber.pdb

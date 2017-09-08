@@ -1,0 +1,6 @@
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Objects and Classes - Exercises\2. Advertisement Message\bin\Debug\_2.Advertisement_Message.exe.config
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Objects and Classes - Exercises\2. Advertisement Message\bin\Debug\_2.Advertisement_Message.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Objects and Classes - Exercises\2. Advertisement Message\bin\Debug\_2.Advertisement_Message.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Objects and Classes - Exercises\2. Advertisement Message\obj\Debug\2. Advertisement Message.csprojResolveAssemblyReference.cache
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Objects and Classes - Exercises\2. Advertisement Message\obj\Debug\_2.Advertisement_Message.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Objects and Classes - Exercises\2. Advertisement Message\obj\Debug\_2.Advertisement_Message.pdb

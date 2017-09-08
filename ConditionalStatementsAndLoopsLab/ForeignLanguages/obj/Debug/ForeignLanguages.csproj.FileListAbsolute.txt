@@ -1,0 +1,5 @@
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\ConditionalStatementsAndLoopsLab\ForeignLanguages\bin\Debug\ForeignLanguages.exe.config
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\ConditionalStatementsAndLoopsLab\ForeignLanguages\bin\Debug\ForeignLanguages.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\ConditionalStatementsAndLoopsLab\ForeignLanguages\bin\Debug\ForeignLanguages.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\ConditionalStatementsAndLoopsLab\ForeignLanguages\obj\Debug\ForeignLanguages.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\ConditionalStatementsAndLoopsLab\ForeignLanguages\obj\Debug\ForeignLanguages.pdb

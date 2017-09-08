@@ -1,0 +1,5 @@
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Objects - More Exercises\Problem 2. Vehicle Catalogue\bin\Debug\Problem_2.Vehicle_Catalogue.exe.config
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Objects - More Exercises\Problem 2. Vehicle Catalogue\bin\Debug\Problem_2.Vehicle_Catalogue.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Objects - More Exercises\Problem 2. Vehicle Catalogue\bin\Debug\Problem_2.Vehicle_Catalogue.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Objects - More Exercises\Problem 2. Vehicle Catalogue\obj\Debug\Problem_2.Vehicle_Catalogue.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Objects - More Exercises\Problem 2. Vehicle Catalogue\obj\Debug\Problem_2.Vehicle_Catalogue.pdb

@@ -1,0 +1,6 @@
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam Preparation 2\02. Ladybugs\bin\Debug\_02.Ladybugs.exe.config
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam Preparation 2\02. Ladybugs\bin\Debug\_02.Ladybugs.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam Preparation 2\02. Ladybugs\bin\Debug\_02.Ladybugs.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam Preparation 2\02. Ladybugs\obj\Debug\02. Ladybugs.csprojResolveAssemblyReference.cache
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam Preparation 2\02. Ladybugs\obj\Debug\_02.Ladybugs.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam Preparation 2\02. Ladybugs\obj\Debug\_02.Ladybugs.pdb

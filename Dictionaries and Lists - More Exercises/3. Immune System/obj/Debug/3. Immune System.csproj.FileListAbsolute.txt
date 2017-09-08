@@ -1,0 +1,6 @@
+c:\users\kiko0735\documents\visual studio 2017\Projects\Dictionaries and Lists - More Exercises\3. Immune System\bin\Debug\_3.Immune_System.exe.config
+c:\users\kiko0735\documents\visual studio 2017\Projects\Dictionaries and Lists - More Exercises\3. Immune System\bin\Debug\_3.Immune_System.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\Dictionaries and Lists - More Exercises\3. Immune System\bin\Debug\_3.Immune_System.pdb
+c:\users\kiko0735\documents\visual studio 2017\Projects\Dictionaries and Lists - More Exercises\3. Immune System\obj\Debug\3. Immune System.csprojResolveAssemblyReference.cache
+c:\users\kiko0735\documents\visual studio 2017\Projects\Dictionaries and Lists - More Exercises\3. Immune System\obj\Debug\_3.Immune_System.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\Dictionaries and Lists - More Exercises\3. Immune System\obj\Debug\_3.Immune_System.pdb

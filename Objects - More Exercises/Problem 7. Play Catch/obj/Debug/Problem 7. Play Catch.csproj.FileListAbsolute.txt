@@ -1,0 +1,6 @@
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Objects - More Exercises\Problem 7. Play Catch\obj\Debug\Problem 7. Play Catch.csprojResolveAssemblyReference.cache
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Objects - More Exercises\Problem 7. Play Catch\bin\Debug\Problem_7.Play_Catch.exe.config
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Objects - More Exercises\Problem 7. Play Catch\bin\Debug\Problem_7.Play_Catch.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Objects - More Exercises\Problem 7. Play Catch\bin\Debug\Problem_7.Play_Catch.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Objects - More Exercises\Problem 7. Play Catch\obj\Debug\Problem_7.Play_Catch.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Objects - More Exercises\Problem 7. Play Catch\obj\Debug\Problem_7.Play_Catch.pdb

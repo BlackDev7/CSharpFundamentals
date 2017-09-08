@@ -1,0 +1,6 @@
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Objects and Classes - Exercises\6. Book Library Modification\bin\Debug\_6.Book_Library_Modification.exe.config
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Objects and Classes - Exercises\6. Book Library Modification\bin\Debug\_6.Book_Library_Modification.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Objects and Classes - Exercises\6. Book Library Modification\bin\Debug\_6.Book_Library_Modification.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Objects and Classes - Exercises\6. Book Library Modification\obj\Debug\_6.Book_Library_Modification.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Objects and Classes - Exercises\6. Book Library Modification\obj\Debug\_6.Book_Library_Modification.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Objects and Classes - Exercises\6. Book Library Modification\obj\Debug\6. Book Library Modification.csprojResolveAssemblyReference.cache

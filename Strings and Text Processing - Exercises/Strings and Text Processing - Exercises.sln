@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 1. ConvertBase10ToBaseN", "Problem 1. ConvertBase10ToBaseN\Problem 1. ConvertBase10ToBaseN.csproj", "{A7EE1A8A-863D-46C8-9E7E-976F4DE3B19E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2. ConvertBaseNToBase10", "Problem 2. ConvertBaseNToBase10\Problem 2. ConvertBaseNToBase10.csproj", "{BCAD8CEA-4544-4D85-A740-CEFDC7161856}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 3. Unicode Characters", "Problem 3. Unicode Characters\Problem 3. Unicode Characters.csproj", "{E100DE9F-FF87-4FB3-933B-55D5912C392A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7EE1A8A-863D-46C8-9E7E-976F4DE3B19E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7EE1A8A-863D-46C8-9E7E-976F4DE3B19E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7EE1A8A-863D-46C8-9E7E-976F4DE3B19E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7EE1A8A-863D-46C8-9E7E-976F4DE3B19E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCAD8CEA-4544-4D85-A740-CEFDC7161856}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCAD8CEA-4544-4D85-A740-CEFDC7161856}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCAD8CEA-4544-4D85-A740-CEFDC7161856}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCAD8CEA-4544-4D85-A740-CEFDC7161856}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E100DE9F-FF87-4FB3-933B-55D5912C392A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E100DE9F-FF87-4FB3-933B-55D5912C392A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E100DE9F-FF87-4FB3-933B-55D5912C392A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E100DE9F-FF87-4FB3-933B-55D5912C392A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

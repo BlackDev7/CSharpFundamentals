@@ -1,0 +1,6 @@
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Regular Expressions (RegEx) - Lab\2. Match Phone Number\bin\Debug\_2.Match_Phone_Number.exe.config
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Regular Expressions (RegEx) - Lab\2. Match Phone Number\bin\Debug\_2.Match_Phone_Number.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Regular Expressions (RegEx) - Lab\2. Match Phone Number\bin\Debug\_2.Match_Phone_Number.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Regular Expressions (RegEx) - Lab\2. Match Phone Number\obj\Debug\2. Match Phone Number.csprojResolveAssemblyReference.cache
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Regular Expressions (RegEx) - Lab\2. Match Phone Number\obj\Debug\_2.Match_Phone_Number.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Regular Expressions (RegEx) - Lab\2. Match Phone Number\obj\Debug\_2.Match_Phone_Number.pdb

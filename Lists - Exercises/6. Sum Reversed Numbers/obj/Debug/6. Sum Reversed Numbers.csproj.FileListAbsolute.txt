@@ -1,0 +1,5 @@
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Lists - Exercises\6. Sum Reversed Numbers\bin\Debug\_6.Sum_Reversed_Numbers.exe.config
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Lists - Exercises\6. Sum Reversed Numbers\bin\Debug\_6.Sum_Reversed_Numbers.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Lists - Exercises\6. Sum Reversed Numbers\bin\Debug\_6.Sum_Reversed_Numbers.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Lists - Exercises\6. Sum Reversed Numbers\obj\Debug\_6.Sum_Reversed_Numbers.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Lists - Exercises\6. Sum Reversed Numbers\obj\Debug\_6.Sum_Reversed_Numbers.pdb

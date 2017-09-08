@@ -1,0 +1,5 @@
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Strings and Text Processing - Lab\4. Palindromes\bin\Debug\_4.Palindromes.exe.config
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Strings and Text Processing - Lab\4. Palindromes\bin\Debug\_4.Palindromes.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Strings and Text Processing - Lab\4. Palindromes\bin\Debug\_4.Palindromes.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Strings and Text Processing - Lab\4. Palindromes\obj\Debug\_4.Palindromes.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Strings and Text Processing - Lab\4. Palindromes\obj\Debug\_4.Palindromes.pdb

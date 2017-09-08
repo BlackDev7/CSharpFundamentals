@@ -1,0 +1,6 @@
+c:\users\kiko0735\documents\visual studio 2017\Projects\Dictionaries and Lists - More Exercises\4. Supermarket Database\bin\Debug\_4.Supermarket_Database.exe.config
+c:\users\kiko0735\documents\visual studio 2017\Projects\Dictionaries and Lists - More Exercises\4. Supermarket Database\bin\Debug\_4.Supermarket_Database.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\Dictionaries and Lists - More Exercises\4. Supermarket Database\bin\Debug\_4.Supermarket_Database.pdb
+c:\users\kiko0735\documents\visual studio 2017\Projects\Dictionaries and Lists - More Exercises\4. Supermarket Database\obj\Debug\_4.Supermarket_Database.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\Dictionaries and Lists - More Exercises\4. Supermarket Database\obj\Debug\_4.Supermarket_Database.pdb
+c:\users\kiko0735\documents\visual studio 2017\Projects\Dictionaries and Lists - More Exercises\4. Supermarket Database\obj\Debug\4. Supermarket Database.csprojResolveAssemblyReference.cache

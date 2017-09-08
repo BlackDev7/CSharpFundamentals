@@ -1,0 +1,6 @@
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam Preparation 1\Problem 3. Endurance Rally\bin\Debug\Problem_3.Endurance_Rally.exe.config
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam Preparation 1\Problem 3. Endurance Rally\bin\Debug\Problem_3.Endurance_Rally.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam Preparation 1\Problem 3. Endurance Rally\bin\Debug\Problem_3.Endurance_Rally.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam Preparation 1\Problem 3. Endurance Rally\obj\Debug\Problem 3. Endurance Rally.csprojResolveAssemblyReference.cache
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam Preparation 1\Problem 3. Endurance Rally\obj\Debug\Problem_3.Endurance_Rally.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam Preparation 1\Problem 3. Endurance Rally\obj\Debug\Problem_3.Endurance_Rally.pdb

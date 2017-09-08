@@ -1,0 +1,5 @@
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Lists - Exercises\2. Search for a Number\bin\Debug\_2.Search_for_a_Number.exe.config
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Lists - Exercises\2. Search for a Number\bin\Debug\_2.Search_for_a_Number.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Lists - Exercises\2. Search for a Number\bin\Debug\_2.Search_for_a_Number.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Lists - Exercises\2. Search for a Number\obj\Debug\_2.Search_for_a_Number.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Lists - Exercises\2. Search for a Number\obj\Debug\_2.Search_for_a_Number.pdb

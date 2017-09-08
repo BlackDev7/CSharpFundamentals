@@ -1,0 +1,6 @@
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\ConditionalStatementsAndLoopsLab\TheatrePromotions\bin\Debug\TheatrePromotions.exe.config
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\ConditionalStatementsAndLoopsLab\TheatrePromotions\bin\Debug\TheatrePromotions.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\ConditionalStatementsAndLoopsLab\TheatrePromotions\bin\Debug\TheatrePromotions.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\ConditionalStatementsAndLoopsLab\TheatrePromotions\obj\Debug\TheatrePromotions.csprojResolveAssemblyReference.cache
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\ConditionalStatementsAndLoopsLab\TheatrePromotions\obj\Debug\TheatrePromotions.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\ConditionalStatementsAndLoopsLab\TheatrePromotions\obj\Debug\TheatrePromotions.pdb

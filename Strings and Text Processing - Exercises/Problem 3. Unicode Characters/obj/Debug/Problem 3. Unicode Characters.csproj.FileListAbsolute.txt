@@ -1,0 +1,5 @@
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Strings and Text Processing - Exercises\Problem 3. Unicode Characters\bin\Debug\Problem_3.Unicode_Characters.exe.config
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Strings and Text Processing - Exercises\Problem 3. Unicode Characters\bin\Debug\Problem_3.Unicode_Characters.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Strings and Text Processing - Exercises\Problem 3. Unicode Characters\bin\Debug\Problem_3.Unicode_Characters.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Strings and Text Processing - Exercises\Problem 3. Unicode Characters\obj\Debug\Problem_3.Unicode_Characters.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Strings and Text Processing - Exercises\Problem 3. Unicode Characters\obj\Debug\Problem_3.Unicode_Characters.pdb

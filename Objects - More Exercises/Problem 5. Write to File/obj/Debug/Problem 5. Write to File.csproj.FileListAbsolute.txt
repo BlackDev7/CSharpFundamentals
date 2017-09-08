@@ -1,0 +1,5 @@
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Objects - More Exercises\Problem 5. Write to File\bin\Debug\Problem_5.Write_to_File.exe.config
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Objects - More Exercises\Problem 5. Write to File\bin\Debug\Problem_5.Write_to_File.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Objects - More Exercises\Problem 5. Write to File\bin\Debug\Problem_5.Write_to_File.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Objects - More Exercises\Problem 5. Write to File\obj\Debug\Problem_5.Write_to_File.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Objects - More Exercises\Problem 5. Write to File\obj\Debug\Problem_5.Write_to_File.pdb

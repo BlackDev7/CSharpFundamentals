@@ -1,0 +1,6 @@
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Objects - More Exercises\Problem 8.  Personal Exception\bin\Debug\Problem_8.Personal_Exception.exe.config
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Objects - More Exercises\Problem 8.  Personal Exception\bin\Debug\Problem_8.Personal_Exception.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Objects - More Exercises\Problem 8.  Personal Exception\bin\Debug\Problem_8.Personal_Exception.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Objects - More Exercises\Problem 8.  Personal Exception\obj\Debug\Problem 8.  Personal Exception.csprojResolveAssemblyReference.cache
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Objects - More Exercises\Problem 8.  Personal Exception\obj\Debug\Problem_8.Personal_Exception.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Objects - More Exercises\Problem 8.  Personal Exception\obj\Debug\Problem_8.Personal_Exception.pdb

@@ -1,0 +1,6 @@
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Objects and Classes - Exercises\3. Intersection of Circles\bin\Debug\_3.Intersection_of_Circles.exe.config
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Objects and Classes - Exercises\3. Intersection of Circles\bin\Debug\_3.Intersection_of_Circles.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Objects and Classes - Exercises\3. Intersection of Circles\bin\Debug\_3.Intersection_of_Circles.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Objects and Classes - Exercises\3. Intersection of Circles\obj\Debug\3. Intersection of Circles.csprojResolveAssemblyReference.cache
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Objects and Classes - Exercises\3. Intersection of Circles\obj\Debug\_3.Intersection_of_Circles.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Objects and Classes - Exercises\3. Intersection of Circles\obj\Debug\_3.Intersection_of_Circles.pdb

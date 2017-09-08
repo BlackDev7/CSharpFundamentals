@@ -1,0 +1,5 @@
+c:\users\kiko0735\documents\visual studio 2017\Projects\1. Remove Negatives and Reverse\2. Append Lists\bin\Debug\_2.Append_Lists.exe.config
+c:\users\kiko0735\documents\visual studio 2017\Projects\1. Remove Negatives and Reverse\2. Append Lists\bin\Debug\_2.Append_Lists.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\1. Remove Negatives and Reverse\2. Append Lists\bin\Debug\_2.Append_Lists.pdb
+c:\users\kiko0735\documents\visual studio 2017\Projects\1. Remove Negatives and Reverse\2. Append Lists\obj\Debug\_2.Append_Lists.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\1. Remove Negatives and Reverse\2. Append Lists\obj\Debug\_2.Append_Lists.pdb

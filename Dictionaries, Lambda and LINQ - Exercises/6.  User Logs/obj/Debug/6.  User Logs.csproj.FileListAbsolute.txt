@@ -1,0 +1,6 @@
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Dictionaries, Lambda and LINQ - Exercises\6.  User Logs\bin\Debug\_6.User_Logs.exe.config
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Dictionaries, Lambda and LINQ - Exercises\6.  User Logs\bin\Debug\_6.User_Logs.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Dictionaries, Lambda and LINQ - Exercises\6.  User Logs\bin\Debug\_6.User_Logs.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Dictionaries, Lambda and LINQ - Exercises\6.  User Logs\obj\Debug\6.  User Logs.csprojResolveAssemblyReference.cache
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Dictionaries, Lambda and LINQ - Exercises\6.  User Logs\obj\Debug\_6.User_Logs.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Dictionaries, Lambda and LINQ - Exercises\6.  User Logs\obj\Debug\_6.User_Logs.pdb

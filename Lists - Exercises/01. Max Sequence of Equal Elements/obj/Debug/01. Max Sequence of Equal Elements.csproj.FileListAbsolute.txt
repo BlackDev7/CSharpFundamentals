@@ -1,0 +1,6 @@
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Lists - Exercises\01. Max Sequence of Equal Elements\bin\Debug\_01.Max_Sequence_of_Equal_Elements.exe.config
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Lists - Exercises\01. Max Sequence of Equal Elements\bin\Debug\_01.Max_Sequence_of_Equal_Elements.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Lists - Exercises\01. Max Sequence of Equal Elements\bin\Debug\_01.Max_Sequence_of_Equal_Elements.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Lists - Exercises\01. Max Sequence of Equal Elements\obj\Debug\01. Max Sequence of Equal Elements.csprojResolveAssemblyReference.cache
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Lists - Exercises\01. Max Sequence of Equal Elements\obj\Debug\_01.Max_Sequence_of_Equal_Elements.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Lists - Exercises\01. Max Sequence of Equal Elements\obj\Debug\_01.Max_Sequence_of_Equal_Elements.pdb

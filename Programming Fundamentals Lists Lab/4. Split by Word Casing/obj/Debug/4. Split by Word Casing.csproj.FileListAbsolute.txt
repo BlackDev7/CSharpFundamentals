@@ -1,0 +1,6 @@
+c:\users\kiko0735\documents\visual studio 2017\Projects\1. Remove Negatives and Reverse\4. Split by Word Casing\obj\Debug\4. Split by Word Casing.csprojResolveAssemblyReference.cache
+c:\users\kiko0735\documents\visual studio 2017\Projects\1. Remove Negatives and Reverse\4. Split by Word Casing\bin\Debug\_4.Split_by_Word_Casing.exe.config
+c:\users\kiko0735\documents\visual studio 2017\Projects\1. Remove Negatives and Reverse\4. Split by Word Casing\bin\Debug\_4.Split_by_Word_Casing.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\1. Remove Negatives and Reverse\4. Split by Word Casing\bin\Debug\_4.Split_by_Word_Casing.pdb
+c:\users\kiko0735\documents\visual studio 2017\Projects\1. Remove Negatives and Reverse\4. Split by Word Casing\obj\Debug\_4.Split_by_Word_Casing.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\1. Remove Negatives and Reverse\4. Split by Word Casing\obj\Debug\_4.Split_by_Word_Casing.pdb

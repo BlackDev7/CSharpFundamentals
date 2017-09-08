@@ -1,0 +1,6 @@
+C:\Users\kiko0735\documents\visual studio 2017\Projects\Dictionaries and Lists - More Exercises\6. Byte Flip\bin\Debug\_6.Byte_Flip.exe.config
+C:\Users\kiko0735\documents\visual studio 2017\Projects\Dictionaries and Lists - More Exercises\6. Byte Flip\bin\Debug\_6.Byte_Flip.exe
+C:\Users\kiko0735\documents\visual studio 2017\Projects\Dictionaries and Lists - More Exercises\6. Byte Flip\bin\Debug\_6.Byte_Flip.pdb
+C:\Users\kiko0735\documents\visual studio 2017\Projects\Dictionaries and Lists - More Exercises\6. Byte Flip\obj\Debug\6. Byte Flip.csprojResolveAssemblyReference.cache
+C:\Users\kiko0735\documents\visual studio 2017\Projects\Dictionaries and Lists - More Exercises\6. Byte Flip\obj\Debug\_6.Byte_Flip.exe
+C:\Users\kiko0735\documents\visual studio 2017\Projects\Dictionaries and Lists - More Exercises\6. Byte Flip\obj\Debug\_6.Byte_Flip.pdb

@@ -1,0 +1,5 @@
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Lists - Exercises\7. Bomb Numbers\bin\Debug\_7.Bomb_Numbers.exe.config
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Lists - Exercises\7. Bomb Numbers\bin\Debug\_7.Bomb_Numbers.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Lists - Exercises\7. Bomb Numbers\bin\Debug\_7.Bomb_Numbers.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Lists - Exercises\7. Bomb Numbers\obj\Debug\_7.Bomb_Numbers.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Lists - Exercises\7. Bomb Numbers\obj\Debug\_7.Bomb_Numbers.pdb

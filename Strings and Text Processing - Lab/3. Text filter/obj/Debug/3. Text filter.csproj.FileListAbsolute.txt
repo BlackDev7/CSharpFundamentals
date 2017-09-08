@@ -1,0 +1,5 @@
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Strings and Text Processing - Lab\3. Text filter\bin\Debug\_3.Text_filter.exe.config
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Strings and Text Processing - Lab\3. Text filter\bin\Debug\_3.Text_filter.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Strings and Text Processing - Lab\3. Text filter\bin\Debug\_3.Text_filter.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Strings and Text Processing - Lab\3. Text filter\obj\Debug\_3.Text_filter.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Strings and Text Processing - Lab\3. Text filter\obj\Debug\_3.Text_filter.pdb

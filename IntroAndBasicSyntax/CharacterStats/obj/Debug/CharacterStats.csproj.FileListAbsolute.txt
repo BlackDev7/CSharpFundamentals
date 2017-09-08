@@ -1,0 +1,5 @@
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\IntroAndBasicSyntax\CharacterStats\bin\Debug\CharacterStats.exe.config
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\IntroAndBasicSyntax\CharacterStats\bin\Debug\CharacterStats.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\IntroAndBasicSyntax\CharacterStats\bin\Debug\CharacterStats.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\IntroAndBasicSyntax\CharacterStats\obj\Debug\CharacterStats.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\IntroAndBasicSyntax\CharacterStats\obj\Debug\CharacterStats.pdb

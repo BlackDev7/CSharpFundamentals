@@ -1,0 +1,6 @@
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Regular Expressions (RegEx) - Lab\1. Match Full Name\bin\Debug\_1.Match_Full_Name.exe.config
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Regular Expressions (RegEx) - Lab\1. Match Full Name\bin\Debug\_1.Match_Full_Name.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Regular Expressions (RegEx) - Lab\1. Match Full Name\bin\Debug\_1.Match_Full_Name.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Regular Expressions (RegEx) - Lab\1. Match Full Name\obj\Debug\1. Match Full Name.csprojResolveAssemblyReference.cache
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Regular Expressions (RegEx) - Lab\1. Match Full Name\obj\Debug\_1.Match_Full_Name.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Regular Expressions (RegEx) - Lab\1. Match Full Name\obj\Debug\_1.Match_Full_Name.pdb

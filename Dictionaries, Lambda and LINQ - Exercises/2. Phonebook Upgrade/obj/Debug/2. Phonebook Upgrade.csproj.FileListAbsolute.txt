@@ -1,0 +1,6 @@
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Dictionaries, Lambda and LINQ - Exercises\2. Phonebook Upgrade\bin\Debug\_2.Phonebook_Upgrade.exe.config
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Dictionaries, Lambda and LINQ - Exercises\2. Phonebook Upgrade\bin\Debug\_2.Phonebook_Upgrade.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Dictionaries, Lambda and LINQ - Exercises\2. Phonebook Upgrade\bin\Debug\_2.Phonebook_Upgrade.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Dictionaries, Lambda and LINQ - Exercises\2. Phonebook Upgrade\obj\Debug\2. Phonebook Upgrade.csprojResolveAssemblyReference.cache
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Dictionaries, Lambda and LINQ - Exercises\2. Phonebook Upgrade\obj\Debug\_2.Phonebook_Upgrade.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Dictionaries, Lambda and LINQ - Exercises\2. Phonebook Upgrade\obj\Debug\_2.Phonebook_Upgrade.pdb

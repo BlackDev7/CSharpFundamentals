@@ -1,0 +1,5 @@
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Regular Expressions (RegEx) - Lab\3. Match Hexadecimal Numbers\bin\Debug\_3.Match_Hexadecimal_Numbers.exe.config
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Regular Expressions (RegEx) - Lab\3. Match Hexadecimal Numbers\bin\Debug\_3.Match_Hexadecimal_Numbers.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Regular Expressions (RegEx) - Lab\3. Match Hexadecimal Numbers\bin\Debug\_3.Match_Hexadecimal_Numbers.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Regular Expressions (RegEx) - Lab\3. Match Hexadecimal Numbers\obj\Debug\_3.Match_Hexadecimal_Numbers.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Regular Expressions (RegEx) - Lab\3. Match Hexadecimal Numbers\obj\Debug\_3.Match_Hexadecimal_Numbers.pdb

@@ -1,0 +1,5 @@
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Strings and Text Processing - Lab\1. Reverse string\bin\Debug\_1.Reverse_string.exe.config
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Strings and Text Processing - Lab\1. Reverse string\bin\Debug\_1.Reverse_string.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Strings and Text Processing - Lab\1. Reverse string\bin\Debug\_1.Reverse_string.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Strings and Text Processing - Lab\1. Reverse string\obj\Debug\_1.Reverse_string.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Strings and Text Processing - Lab\1. Reverse string\obj\Debug\_1.Reverse_string.pdb
