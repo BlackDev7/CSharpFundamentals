@@ -1,0 +1,6 @@
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam Prep 3\01. Softuni Coffee Orders\bin\Debug\_01.Softuni_Coffee_Orders.exe.config
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam Prep 3\01. Softuni Coffee Orders\bin\Debug\_01.Softuni_Coffee_Orders.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam Prep 3\01. Softuni Coffee Orders\bin\Debug\_01.Softuni_Coffee_Orders.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam Prep 3\01. Softuni Coffee Orders\obj\Debug\01. Softuni Coffee Orders.csprojResolveAssemblyReference.cache
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam Prep 3\01. Softuni Coffee Orders\obj\Debug\_01.Softuni_Coffee_Orders.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam Prep 3\01. Softuni Coffee Orders\obj\Debug\_01.Softuni_Coffee_Orders.pdb

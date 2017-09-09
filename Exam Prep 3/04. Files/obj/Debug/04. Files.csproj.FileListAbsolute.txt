@@ -1,0 +1,5 @@
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam Prep 3\04. Files\bin\Debug\_04.Files.exe.config
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam Prep 3\04. Files\bin\Debug\_04.Files.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam Prep 3\04. Files\bin\Debug\_04.Files.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam Prep 3\04. Files\obj\Debug\_04.Files.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam Prep 3\04. Files\obj\Debug\_04.Files.pdb

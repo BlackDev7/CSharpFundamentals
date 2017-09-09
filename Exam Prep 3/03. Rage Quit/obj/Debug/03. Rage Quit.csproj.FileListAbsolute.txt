@@ -1,0 +1,6 @@
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam Prep 3\03. Rage Quit\bin\Debug\_03.Rage_Quit.exe.config
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam Prep 3\03. Rage Quit\bin\Debug\_03.Rage_Quit.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam Prep 3\03. Rage Quit\bin\Debug\_03.Rage_Quit.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam Prep 3\03. Rage Quit\obj\Debug\03. Rage Quit.csprojResolveAssemblyReference.cache
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam Prep 3\03. Rage Quit\obj\Debug\_03.Rage_Quit.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam Prep 3\03. Rage Quit\obj\Debug\_03.Rage_Quit.pdb

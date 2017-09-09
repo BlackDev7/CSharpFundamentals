@@ -1,0 +1,5 @@
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam Prep 3\02. Command Interpreter\bin\Debug\_02.Command_Interpreter.exe.config
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam Prep 3\02. Command Interpreter\bin\Debug\_02.Command_Interpreter.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam Prep 3\02. Command Interpreter\bin\Debug\_02.Command_Interpreter.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam Prep 3\02. Command Interpreter\obj\Debug\_02.Command_Interpreter.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam Prep 3\02. Command Interpreter\obj\Debug\_02.Command_Interpreter.pdb
