@@ -1,0 +1,6 @@
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam -  July 2017\03. Regexmon\bin\Debug\_03.Regexmon.exe.config
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam -  July 2017\03. Regexmon\bin\Debug\_03.Regexmon.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam -  July 2017\03. Regexmon\bin\Debug\_03.Regexmon.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam -  July 2017\03. Regexmon\obj\Debug\03. Regexmon.csprojResolveAssemblyReference.cache
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam -  July 2017\03. Regexmon\obj\Debug\_03.Regexmon.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\CSharpFundamentals\Exam -  July 2017\03. Regexmon\obj\Debug\_03.Regexmon.pdb
