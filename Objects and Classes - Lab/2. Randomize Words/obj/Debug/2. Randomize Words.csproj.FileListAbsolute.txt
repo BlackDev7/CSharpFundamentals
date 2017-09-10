@@ -1,0 +1,6 @@
+c:\users\kiko0735\documents\visual studio 2017\Projects\Objects and Classes - Lab\2. Randomize Words\bin\Debug\_2.Randomize_Words.exe.config
+c:\users\kiko0735\documents\visual studio 2017\Projects\Objects and Classes - Lab\2. Randomize Words\bin\Debug\_2.Randomize_Words.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\Objects and Classes - Lab\2. Randomize Words\bin\Debug\_2.Randomize_Words.pdb
+c:\users\kiko0735\documents\visual studio 2017\Projects\Objects and Classes - Lab\2. Randomize Words\obj\Debug\2. Randomize Words.csprojResolveAssemblyReference.cache
+c:\users\kiko0735\documents\visual studio 2017\Projects\Objects and Classes - Lab\2. Randomize Words\obj\Debug\_2.Randomize_Words.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\Objects and Classes - Lab\2. Randomize Words\obj\Debug\_2.Randomize_Words.pdb

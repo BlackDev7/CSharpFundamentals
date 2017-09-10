@@ -1,0 +1,6 @@
+c:\users\kiko0735\documents\visual studio 2017\Projects\Objects and Classes - Lab\1. Day of Week\bin\Debug\_1.Day_of_Week.exe.config
+c:\users\kiko0735\documents\visual studio 2017\Projects\Objects and Classes - Lab\1. Day of Week\bin\Debug\_1.Day_of_Week.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\Objects and Classes - Lab\1. Day of Week\bin\Debug\_1.Day_of_Week.pdb
+c:\users\kiko0735\documents\visual studio 2017\Projects\Objects and Classes - Lab\1. Day of Week\obj\Debug\1. Day of Week.csprojResolveAssemblyReference.cache
+c:\users\kiko0735\documents\visual studio 2017\Projects\Objects and Classes - Lab\1. Day of Week\obj\Debug\_1.Day_of_Week.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\Objects and Classes - Lab\1. Day of Week\obj\Debug\_1.Day_of_Week.pdb
